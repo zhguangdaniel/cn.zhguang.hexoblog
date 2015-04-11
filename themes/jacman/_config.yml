@@ -24,9 +24,6 @@ widgets:
 #### RSS 
 rss: /atom.xml ## RSS address.
 
-#### Sitemap
-Sitemap: /sitemap.xml
-
 #### Image
 imglogo:
   enable: true             ## display image logo true/false.
@@ -55,7 +52,7 @@ creative_commons: none
 author:
   intro_line1:  "Hello ,I'm Zhang Guang (or Daniel)in Alibaba."    ## your introduction on the bottom of the page
   intro_line2:  "This is my personal blog."  ## the 2nd line
-  weibo: zhguangboy     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo: 1911699691     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier: 4e804b1d  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 1911699691     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
