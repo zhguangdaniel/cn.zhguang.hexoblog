@@ -1,42 +1,5 @@
 title: Hello World
-categories: Hello
-tags: Hello  
-date: 2015-03-16 15:30:16    
-updated: 2015-03-16 15:30:16   
   
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-<!--more-->
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+我的博客开张了，该博客主要用于分享Java、分布式、Server端、架构、管理、生活等方面的内容，开张大吉！
+欢迎光临我的博客，点击[这里](http://zhguangdaniel.github.io/about/)查看自我介绍吧！
